@@ -1,5 +1,5 @@
 // Адрес вашего развернутого контракта
-	const contractAddress = 0xC1A183487f16291eB686dAfdC6144F939a91D3aE;
+	const contractAddress = '0xC1A183487f16291eB686dAfdC6144F939a91D3aE';
 	// ABI вашего контракта (можно взять тот набор, который формирует Remix)
 	const contractAbi = [
 		{
@@ -50,3 +50,4 @@
 	alert('Установите MMask или другой кошелек.');
 
 }
+
